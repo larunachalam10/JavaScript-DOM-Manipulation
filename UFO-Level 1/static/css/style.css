@@ -121,12 +121,12 @@ select {
 /* input placeholder color changes */
 .form-control::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
-  color: #8e979f;
+  color:lightblue;
 }
 
 .form-control::-moz-placeholder {
   /* Firefox 19+ */
-  color: #8e979f;
+  color:lightblue;
 }
 
 .form-control:-ms-input-placeholder {
